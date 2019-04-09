@@ -1,0 +1,2 @@
+% blank.txt
+% This file only exists so that DataTables is not empty and can be exported.
